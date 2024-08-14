@@ -1,1 +1,0 @@
-Chua co gi ca

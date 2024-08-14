@@ -1,0 +1,58 @@
+site_name: Tôi luyện bản thân - Khu học mở  
+site_description: Luyện bản thân, chắc vậy 
+site_author: duykhanh471  
+theme:
+  name: material
+  features:
+    - navigation.sections
+  palette:
+    primary: indigo
+
+nav:
+  - Home: 'index.md'
+  - 'Cải thiện bản thân':
+    - Lộ trình': 'guide.md'
+  - 'Thói quen tốt':
+    - Dọn dẹp': 'konmari.md'
+    - Tập thể dục': 'the-duc.md'
+    - Đọc sách': 'doc-sach.md'
+    - Nấu ăn': 'nau-an.md'
+  - 'Học tập':
+    - Tự học': 'tu-hoc.md'
+    - Định hướng học': 'dinh-huong-hoc.md'
+  - 'Tập luyện':
+    - Yoga': 'yoga.md'
+    - Stretching': 'stretching.md'
+  - 'Kỉ luật':
+    - Xây dựng kỉ luật': 'ki-luat.md'
+  - 'Tu luyện':
+    - 'Tu luyện': 'tu-luyen.md'
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - search.suggest
+    - search.highlighting
+    - search.share
+  name: material
+
+extra:
+  generator: false
