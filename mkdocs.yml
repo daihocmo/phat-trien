@@ -9,22 +9,22 @@ theme:
     primary: indigo
 
 nav:
-  - Home: 'index.md'
+  - 'Home': 'index.md'
   - 'Cải thiện bản thân':
-    - Lộ trình': 'guide.md'
+    - 'Lộ trình': 'guide.md'
   - 'Thói quen tốt':
-    - Dọn dẹp': 'konmari.md'
-    - Tập thể dục': 'the-duc.md'
-    - Đọc sách': 'doc-sach.md'
-    - Nấu ăn': 'nau-an.md'
+    - 'Dọn dẹp': 'konmari.md'
+    - 'Tập thể dục': 'the-duc.md'
+    - 'Đọc sách': 'doc-sach.md'
+    - 'Nấu ăn': 'nau-an.md'
   - 'Học tập':
-    - Tự học': 'tu-hoc.md'
-    - Định hướng học': 'dinh-huong-hoc.md'
+    - 'Tự học': 'tu-hoc.md'
+    - 'Định hướng học': 'dinh-huong-hoc.md'
   - 'Tập luyện':
-    - Yoga': 'yoga.md'
-    - Stretching': 'stretching.md'
+    - 'Yoga': 'yoga.md'
+    - 'Stretching': 'stretching.md'
   - 'Kỉ luật':
-    - Xây dựng kỉ luật': 'ki-luat.md'
+    - 'Xây dựng kỉ luật': 'ki-luat.md'
   - 'Tu luyện':
     - 'Tu luyện': 'tu-luyen.md'
 theme:
