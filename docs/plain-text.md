@@ -1,1 +1,0 @@
-Sử dụng Plain Text, không cần quá phức tạp, cũng có thể mang lại hiệu quả rất lớn.

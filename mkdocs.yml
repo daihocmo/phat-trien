@@ -1,5 +1,5 @@
 site_name: Tôi luyện bản thân - Khu học mở  
-site_description: Luyện bản thân, chắc vậy 
+site_description: Luyện bản thân, chắc vậy (đại khái là self-improvement nói chung bla bla).
 site_author: duykhanh471  
 theme:
   name: material
@@ -9,24 +9,24 @@ theme:
     primary: indigo
 
 nav:
-  - 'Home': 'index.md'
-  - 'Cải thiện bản thân':
-    - 'Lộ trình': 'guide.md'
-  - 'Thói quen tốt':
-    - 'Dọn dẹp': 'konmari.md'
-    - 'Tập thể dục': 'the-duc.md'
+  - 'Bản thân': 
+    - 'Mở đầu': 'index.md'
+    - 'Hướng dẫn chính': 'guide.md'
+    - '30 ngày phát triển': '30ngay.md'
+    - 'Động lực': 'dong-luc.md'
+  - 'Sức khỏe tinh thần':
     - 'Đọc sách': 'doc-sach.md'
-    - 'Nấu ăn': 'nau-an.md'
-  - 'Học tập':
-    - 'Tự học': 'tu-hoc.md'
-    - 'Định hướng học': 'dinh-huong-hoc.md'
-  - 'Tập luyện':
-    - 'Yoga': 'yoga.md'
-    - 'Stretching': 'stretching.md'
-  - 'Kỉ luật':
-    - 'Xây dựng kỉ luật': 'ki-luat.md'
-  - 'Tu luyện':
-    - 'Tu luyện': 'tu-luyen.md'
+  - 'Kiến thức':
+    - 'Học tập': 'hoc-tap.md'
+  - 'Sức khỏe thể chất':
+    - 'Ăn uống': 'diet.md'
+    - 'Ngủ': 'sleeping.md'
+  - 'Thói quen':
+    - 'Những thói quen hay': 'thoi-quen.md'
+  - 'Kĩ năng':
+    - 'Quản lý tài chính': 'tai-chinh.md'
+
+
 theme:
   palette:
     # Palette toggle for light mode

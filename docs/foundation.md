@@ -1,0 +1,1 @@
+https://old.reddit.com/r/FoundationGuide/comments/gk1poy/what_is_the_foundation_guide_to_selfimprovement/
