@@ -9,22 +9,24 @@ theme:
     primary: indigo
 
 nav:
-  - 'Bản thân': 
+  - 'Khởi điểm': 
     - 'Mở đầu': 'index.md'
-    - 'Hướng dẫn chính': 'guide.md'
-    - '30 ngày phát triển': '30ngay.md'
     - 'Động lực': 'dong-luc.md'
-  - 'Sức khỏe tinh thần':
+  - 'Phát triển bản thân':
     - 'Đọc sách': 'doc-sach.md'
-  - 'Kiến thức':
     - 'Học tập': 'hoc-tap.md'
-  - 'Sức khỏe thể chất':
-    - 'Ăn uống': 'diet.md'
-    - 'Ngủ': 'sleeping.md'
+    - 'Ăn uống & Ngủ nghỉ': 'eat-sleep.md'
+    - 'Tập thể dục': 'the-duc.md'
+  - 'Hướng dẫn':
+    - 'Hướng dẫn chính': 'guide.md'
   - 'Thói quen':
+    - '30 ngày phát triển': '30ngay.md'    
     - 'Những thói quen hay': 'thoi-quen.md'
   - 'Kĩ năng':
     - 'Quản lý tài chính': 'tai-chinh.md'
+    - 'Còn gì khác?': 'other.md'
+  - 'Tài nguyên':
+    - 'Tài nguyên': 'tai-nguyen.md'
 
 
 theme:
@@ -55,6 +57,7 @@ theme:
   name: material
 
 plugins:
+  - search
   - open-in-new-tab
   
 extra:
