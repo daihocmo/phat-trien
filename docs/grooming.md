@@ -15,3 +15,7 @@ LESS REGULAR (every 2-3 weeks)
 • Body hair: Trim this occasionally with the larger electric trimmer in areas that get too bushy. For hard-to-reach hair, you can try using a depilatory cream.
 • Less common: Trim nose hair with the smaller electric trimmer. Trim eyebrows, if necessary, by placing a comb over them and using the smaller trimmer on any hair that gets through the comb (you can also ask your barber to do this). To get rid of a unibrow, carefully shave away the center part between your eyebrows with a razor. Clean out ears (carefully). Trim nails with nail clipper.
 This One-Page Guide is part of the Foundation Guide to Self-Improvement. Look up the full book for free info on exercise, grooming, dating, and more.
+
+Các thông tin bổ sung:
+
+- [](https://joman.vn/grooming-la-gi-nam-gioi-nen-grooming-nhu-the-nao)
