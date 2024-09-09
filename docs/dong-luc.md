@@ -1,4 +1,4 @@
-The first part of the first chapter: On Motivation. Discover why most people can't motivate themselves effectively, and how to set goals the right way! Comments appreciated! (self.FoundationGuide)
+The first part of the first chapter: On Motivation. Discover why most people can't motivate themselves effectively, and how to set goals the right way! Comments appreciated! ([self.FoundationGuide](https://old.reddit.com/r/FoundationGuide/comments/gk1poy/what_is_the_foundation_guide_to_selfimprovement/))
 
 The following is part of the first chapter to a comprehensive guide to self-improvement. I'm in the process of writing it, and it will cover topics like Motivation, Socializing, Fitness, Diet, Grooming, Dating, Occupation, and much more. When I'm done the book will be released for free in its entirety. If you are interested in contributing, I would love your help! Please leave a comment below to share your thoughts, and/or join the subreddit here at /r/FoundationGuide. Thanks!
 

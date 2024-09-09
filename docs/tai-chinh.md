@@ -80,7 +80,7 @@ Nguyên tắc 2: Chỉ đầu tư vào những tài sản mà mình có hiểu b
 
 Cái này thì cũng rõ ràng thôi, ví dụ nếu bạn không biết tí gì về coin, thì *không nên* đùng 1 cái ném vài trăm củ vào coin và cầu nguyện. Trong **ngắn hạn**, có thể bạn sẽ lãi 50-70% thật *nếu may*, hoặc cũng có thể bạn sẽ lỗ 50-70% *nếu xui*. Trong **dài hạn**, hành động như vậy khó có thể mang lại lợi ích lâu dài. Nếu muốn đầu tư vào coin khi chưa biết gì, hãy bắt đầu từ con số nhỏ trước, vừa làm vừa học tập nghiên cứu tìm hiểu dần dần.
 
-Còn nếu bạn vẫn muốn liều ăn nhiều thì cũng không sao cả, như mình nói ở trên cái này là chủ quan tùy mỗi người ![😊](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f60a.png "Smiling face with smiling eyes    :blush:")
+Còn nếu bạn vẫn muốn liều ăn nhiều thì cũng không sao cả, như mình nói ở trên cái này là chủ quan tùy mỗi người
 
 Nguyên tắc 3: Bắt đầu càng sớm càng tốt
 

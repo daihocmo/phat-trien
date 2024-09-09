@@ -26,7 +26,8 @@ Have a long term goals; daily/weekly/quarterly/monthly/yearly.
 This long term goals are the ones that would build structure for your days and weeks. These are the focus of your days, these goals are what you will put in your time blocks.  
 put the due dates of your long term goals in the calendar weekly/quarterly/monthly/yearly. these long term goals usually be personal pursuits or businesses. goals that would make progress for your life. This must be the focus of your life. Start small at least 1-2 goals.
 
-STEPS:  
+STEPS: (For beginners and self employed who also struggles with interruptions: The steps 1-7 must be met in order for it to be successful.)  
+
 1. At least try to schedule your day the night before given that you have already also sched your long term goals in advance.  
 2. Wake up earlier (gives you mental edge). and start your day early  
 3. have a list of what you need to do that day/tomorrow; list all tasks & prioritize.  
@@ -34,10 +35,6 @@ STEPS:
 5. Have a morning routine that would get you ready to tackle your day  
 6. All meetings, appointments, classes lay it all out in your calendar.  
 7. Have at least a consistent time for breakfast/lunch/dinner then sched it
-
-For beginners and self employed who also struggles with interruptions:  
-The steps 1-7 must be met in order for it to be successful.
-
 8.Time block your calendar on weekdays ONLY from 5 am OR 6 am - 1pm OR 2pm. (weekends would serve as your "anything goes" days and rest days).  
 9.Lay out first all your hard commitments, appointments, meetings, classes etc.  
 10. Sched what time you will wake up and do the morning routines together with breakfast and lunch.  
