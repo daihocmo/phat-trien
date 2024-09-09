@@ -1,68 +1,65 @@
+I grew up taking dance, so I eventually learned how to become flexible and maintain flexibility. One thing I would recommend is learning different stretches and practicing them daily (for at least 30 minutes). Also, 
 
-[–]x_SmokeWeed420_x 2 points 4 years ago 
-Good job on writing this, very nice to have things visualized.
+if you do a LIGHT WARM-UP (some jogging or light cardio) for a few minutes before you start stretching, that will help you to "warm up" your muscles. 
 
-permalinkembedsavereportreply
+Drink plenty of water to stay hydrated 
 
-[–]Mycorhizal[S] 1 point 4 years ago 
-Thanks! Are there any other topics you would like to see addressed?
+a healthy diet (fruits, veggies, lean meats, calcium-rich foods/beverages, that kind of stuff) and also try to have a healthy breakfast everyday if you're able to.
 
-permalinkembedsaveparentreportreply
+When you're stretching, don't overdo it! 
 
-[–]x_SmokeWeed420_x 2 points 4 years ago 
-Hard to say, maybe exercises? Would be helpful with a simple guide like this compared to trying to crawl the internet for information. For example easy exercises that train chest, back, etc.
+I cannot stress this enough! Stretch until you feel a slight burn and hold it there for several seconds, and **DO NOT BOUNCE THE MUSCLES!!!!** This puts unneeded stress on your joints and muscles. Instead, stretch in a slow, fluid motion. When stretching, you should feel some discomfort, but it should _not_ be downright painful. I would also recommend working with someone experienced with proper stretching techniques (an instructor, physical trainer, knowledgeable friend) for a few days as well to teach you different stretches and to make certain you're doing them correctly.
 
-permalinkembedsaveparentreportreply
+Aerobics help in the sense that they can warm up your muscles beforehand (Atomic Habit). 
 
-[–]Mycorhizal[S] 2 points 4 years ago 
-Good call! I'm working on that as well. My hope is to make this guide comprehensive and authoritative so people don't have to look anywhere else for good information. I've spent years scouring the internet and books for this sort of advice and sadly it's way too scattered right now.
+> How long should you hold a given stretch?
 
-Here's what I have for fitness so far. Any suggestions?
+Longer if older and inflexible. The stretch reflex can last up to 45s in some people. My advice is always 60s, because it covers this base AND helps scale intensity - what you can hold for 60s is significantly different that what you can hold for 10s
 
-Quote: “The best workout is the one that you actually do.”
 
-There are two kinds of workouts: Cardio and Strength Training.
+### Where do I start?
 
-Cardio (aka endurance training) helps with heart health and endurance.
-Strength training builds muscle and strength.
-Running and swimming help with cardio, while lifting weights helps with strength training.
-A “rep”, short for repetition, is one isolated exercise. For example, a single push-up is one rep. A set is a collection of reps. Thus, 3 sets of 5 reps of push-ups is 15 push-ups (3x5).
+- **[Starting To Stretch](https://redlib.tux.pizza/r/flexibility/wiki/starting_to_stretch)** is a basic stretching routine for overall flexibility. **Beginners should start there.** (SHOULD DO IT RIGHTAWAY!)
+    
+- Experiencing pain in your neck/shoulder/back/hips/groin legs/knees/ankles when you run/walk/sit/squat/stretch? Go see a doctor! Stretching may not be the solution to your pain!
+    
 
-Cardio: See "couch to 5k guide" for full info
+### Toe Touching
 
-Proper form: don’t cross arms across chest when running
-For beginners: jog for 1 minute, walk for 1.5 minutes. Do this 4 times for a 10-minute run, or 8 times for a 20-minute run.
-Strength Training: Calisthenics
+- [This toe-touching routine](http://antranik.org/toe-touching-routine/) was used for the 30-day challenge with great success.
+    
+- [u/Antranik](https://redlib.tux.pizza/u/Antranik) also offers [Easy Hamstrings](https://antranik.org/register/hamstrings/), a paid program for easy hamstring flexibility!
+    
+- [What should stretching feel like?](https://web.archive.org/web/20170315112004/http://dev.moveskill.com/2015/03/what-should-stretching-feel-like/)
+    
+- Can't touch your toes? [Try this toe touch progression](https://redlib.tux.pizza/r/flexibility/comments/1hg80f/climber_who_needs_some_help_becoming_flexible/cauc2x6) ([why this works](http://www.functionalmovement.com/articles/Podcasts/2015-03-09_why_i_do_the_toe_touch_progression_on_stage)).
+    
 
-(include diagrams of most important exercises)
-Outline muscles: Abs, Pecs, Biceps, etc.
-Push-ups: Place your hands on the ground about shoulder width apart. Lower yourself to the ground and rise.
-Pull-ups: Grab on to an overhead bar. Using your arms, pull yourself up to the bar and back down.
-Squats:
-Sit-ups: Lie on a mat on your back, with your legs bent and feet flat on the mat. Keep your back straight, use your abs to pull your torso up to your legs.
-(outline workout regimen)
-What to eat?
+### Squats
 
-Get protein after working out
-Eat 1 gram of protein per pound of bodyweight
-permalinkembedsaveparentreportreply
+- [Our own squat routine](https://redlib.tux.pizza/r/flexibility/comments/4lxu1l/welcome_to_week_1_of_the_squat_mobility_month/) was created for the 30-day challenge. It will guide you through all the steps towards a deep squat resting position.
 
-[–]x_SmokeWeed420_x 2 points 4 years ago 
-Nice work brother, sounds like you're well on your way. Maybe throw in some precautions, i.e. how to not destroy your back while lifting, not training only one part of your body, etc. I think maybe some sort of beginners guide could also help many get started, e.g. how someone can train themselves up to do a pull-up if they are not able to. An idea for another guide could be posture. Reasons why people get bad posture and ways to improve for example rounded shoulders. Just throwing out ideas, do what you feel like. The guide youre writing looks good. I appreciate the content.
+### Splits
 
-permalinkembedsaveparentreportreply
+- [This splits routine](http://antranik.org/antraniks-splits-routine/) was created for the 90-day challenge and will give you quick results by stretching every day.
+    
+- If you just want to take it a bit slower, [here's a follow-along video](https://www.youtube.com/watch?v=UyuBbYx28sg) for every other day.
+    
+- Hit a plateau in your splits training? Try these brutal but effective loaded progressions. [Here](http://www.martialartsplanet.com/forums/showthread.php?t=96381) and [here](https://redlib.tux.pizza/r/bodyweightfitness/comments/18xgtu/standing_straddle_stretch/c8ivuft). Oh, and [here](https://www.youtube.com/watch?v=mOiqD7SqVXc).
+    
 
-[–]Mycorhizal[S] 2 points 4 years ago 
-Maybe throw in some precautions, i.e. how to not destroy your back while lifting, not training only one part of your body, etc.
+### General Resources
 
-Unfortunately I don't know enough about lifting to offer authoritative advice about it. I'm going to focus purely on calisthenics for this guide, although I will definitely state the importance of proper form and also gives readers links to more in-depth lifting guides.
-
-how someone can train themselves up to do a pull-up if they are not able to. An idea for another guide could be posture.
-
-Perfect suggestions. I'll be working on this for awhile but let me know if you run across any good guides with this type of info
-
-permalinkembedsaveparentreportreply
-
-[–]x_SmokeWeed420_x 2 points 4 years ago 
-Sure will do. Good luck king
-
+- **[Starting To Stretch](https://redlib.tux.pizza/r/flexibility/wiki/starting_to_stretch)** is a basic stretching routine for overall flexibility. **Beginners should start there.**
+    
+- [Tim Hall's flexibility training material](http://www.oracle-base.com/flexibility/) has more advanced information and uses dynamic and isometric/PNF stretching methods.
+    
+- [Kit Laughlin's Youtube channel](http://www.youtube.com/user/KitLaughlin/videos?view=0) has great stretches paired with clear instructions to do them properly.
+    
+- ['Flexibility Friday' archive](https://redlib.tux.pizza/r/flexibility/comments/184he9/the_flexibility_friday_archive/)
+    
+- [Mobility WOD](http://www.mobilitywod.com/) has a lot of information but can be difficult to navigate.
+    
+- [Stretching and Flexibility](http://www.bradapp.com/docs/rec/stretching/) by Brad Appleton. A classic resource on flexibility training.
+    
+- Emmet Louis [explains Loaded Progressive Stretching](https://www.youtube.com/watch?v=askyPISMogs).

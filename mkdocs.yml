@@ -14,16 +14,20 @@ nav:
     - 'Động lực': 'dong-luc.md'
   - 'Phát triển bản thân':
     - 'Đọc sách': 'doc-sach.md'
-    - 'Học tập': 'hoc-tap.md'
+    - 'Tự học': 'hoc-tap.md'
     - 'Ăn uống & Ngủ nghỉ': 'eat-sleep.md'
     - 'Tập thể dục': 'the-duc.md'
   - 'Hướng dẫn':
     - 'Hướng dẫn chính': 'guide.md'
   - 'Thói quen':
+    - 'Thói quen nguyên tử': 'tiny-habit.md'
     - '30 ngày phát triển': '30ngay.md'    
     - 'Những thói quen hay': 'thoi-quen.md'
   - 'Kĩ năng':
     - 'Quản lý tài chính': 'tai-chinh.md'
+    - 'Ghi nhớ mọi thứ': 'ghi-nho.md'
+    - 'Trở thành người nghe': 'nguoi-nghe.md'
+    - 'Grooming Guide': 'grooming.md'
     - 'Còn gì khác?': 'other.md'
   - 'Tài nguyên':
     - 'Tài nguyên': 'tai-nguyen.md'

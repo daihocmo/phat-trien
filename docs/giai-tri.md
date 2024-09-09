@@ -20,20 +20,6 @@ I’ve folded in a few existing non-holidays into my Calendar (420, Pi Day, Bicy
 
 I could go on and on, but you get the idea. Holidays today are often empty, vapid exercises in commercialism, totally devoid of whatever meaning they might once have held. So make the meaning yourself and celebrate your life.
 
-permalinkembedsavereportreply
-
-[–]LordButtFuck 3 points 4 years ago 
-I don’t celebrate Christmas, Easter, or Thanksgiving. I do celebrate Mardi Gras, the Harvest Moon in September, and Oktoberfest though. Just for shits and giggles.
-
-permalinkembedsaveparentreportreply
-
-[–]Futureboy314 1 point 4 years ago 
-Thanksgiving is one that I think has a lot of value, so long as you strip it of false cultural narratives (pilgrims etc) and commercial trappings.
-But there’s some indication that showing gratitude and being grateful makes you a happier person, just by noticing the good things around you. So I think a holiday dedicated to that concept is useful in a fully actualized life.
-
-permalinkembedsaveparentreportreply
-
-[–]Mycorhizal[S] 1 point 4 years ago 
 This is an excellent suggestion. It really is sad how empty holidays have become.
 
 Another suggestion could be to look to the past for inspiration with holidays, either adopting holidays that are no longer celebrated, or incorporating traditional aspects into holidays like Christmas to give them more substance than "let's buy stuff".
